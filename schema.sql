@@ -47,3 +47,7 @@ CREATE TABLE visits(
   date_of_visit DATE,
   PRIMARY KEY(id)
 );
+
+-- Solution
+CREATE INDEX animal_id ON visits(animal_id ASC);
+CREATE INDEX email_index ON owners(email ASC);
