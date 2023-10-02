@@ -1,3 +1,5 @@
+CREATE DATABASE vet_clinic_group;
+
 CREATE TABLE owners(
   id INT GENERATED ALWAYS AS IDENTITY,
   full_name VARCHAR(20),
