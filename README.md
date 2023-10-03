@@ -72,6 +72,18 @@ Example commands:
 - GitHub: [@githubhandle](https://github.com/mershark)
 - LinkedIn: [Profile link](https://www.linkedin.com/in/mershark/)
 
+👤 **Mozamel Jawad**
+
+- GitHub: [@githubhandle](https://github.com/MozamelJawad)
+- Twitter: [@twitterhandle](https://twitter.com/mozameljawad)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mozamel-jawad/)
+
+👤 **Young Gaius**
+
+- Github: [Young-Gaius](https://github.com/Young-Gaius)
+- Linkedin: [Young-gaius](https://www.linkedin.com/in/young-gaius-205624268/)
+- Twitter: [Young Gaius](https://twitter.com/EhuYoung)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
