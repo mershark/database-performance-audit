@@ -48,6 +48,8 @@ CREATE TABLE visits(
   PRIMARY KEY(id)
 );
 
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
 -- Solution
 CREATE INDEX animal_id ON visits(animal_id ASC);
 CREATE INDEX email_index ON owners(email ASC);
